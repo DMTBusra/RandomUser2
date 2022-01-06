@@ -1,0 +1,6 @@
+.icons{
+    display: flex;
+}
+.icon img{
+    width: 25px;
+}
